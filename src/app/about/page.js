@@ -195,7 +195,7 @@ export default function AboutPage() {
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Lorem ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem ipsum has been the industry's
+                  typesetting industry. Lorem ipsum has been the industrys
                   standard dummy text ever since the 1500s, when an unknown
                   printer took a galley of type and scrambled it to make a type
                   specimen book.
@@ -213,7 +213,7 @@ export default function AboutPage() {
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Lorem ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem ipsum has been the industry's
+                  typesetting industry. Lorem ipsum has been the industrys
                   standard dummy text ever since the 1500s, when an unknown
                   printer took a galley of type and scrambled it to make a type
                   specimen book.
@@ -231,7 +231,7 @@ export default function AboutPage() {
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Lorem ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem ipsum has been the industry's
+                  typesetting industry. Lorem ipsum has been the 
                   standard dummy text ever since the 1500s, when an unknown
                   printer took a galley of type and scrambled it to make a type
                   specimen book.
@@ -249,7 +249,7 @@ export default function AboutPage() {
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Lorem ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem ipsum has been the industry's
+                  typesetting industry. Lorem ipsum has been the 
                   standard dummy text ever since the 1500s, when an unknown
                   printer took a galley of type and scrambled it to make a type
                   specimen book.
